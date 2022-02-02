@@ -27,5 +27,3 @@
 
 ## 5. 성과
 ![image](https://user-images.githubusercontent.com/55688416/152126416-b7e0bd5d-79d9-4a35-8148-8195966300de.png)
-
-ㅇㅁㄹ
