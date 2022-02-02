@@ -8,7 +8,7 @@
 
 ## 2.주최/주관  
  - 주최: NIA 한국지능정보사회진흥원
- - 주관: 한국정보통신진흥협회, 한국데이터거래소, BigdataSea, envbigdata, 빅데이터유통플랫폼,
+ - 주관: 한국정보통신진흥협회, 한국데이터거래소, BigdataSea, envbigdata, 빅데이터유통플랫폼,  
          SKtelecom, 신한카드, WISEnut, GS리테일, 올리브네트웍스, KCB, DOUZONE, 스포츠투아이(주), 제주테크노파트, K-water
  - 후원: 과학기술정보통신부, 제주특별자치도, 강원도, KBD빅데이터
 <br>
