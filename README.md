@@ -1,4 +1,4 @@
-# < 2021년 빅콘테스트 데이터분석 분야 퓨처스리그 홍수ZERO >
+# <2021년 빅콘테스트 데이터분석 분야 퓨처스리그 홍수ZERO>
 
 
 ![image](https://user-images.githubusercontent.com/55688416/154782928-a714878e-1c63-4dbf-814d-05779496887f.png)
